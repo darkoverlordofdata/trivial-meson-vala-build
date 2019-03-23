@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Trivial
+Comment=Lorem ipsum dolor sit amet
+Exec=com.github.daarkoverlordofdata.trivial
+Icon=com.github.daarkoverlordofdata.trivial
+Keywords=Lorem;Ipsum;
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;Utility;

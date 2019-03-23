@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Daniel Foré <daniel@elementary.io> -->
+<component type="desktop-application">
+    <id>com.github.darkoverlordofdata.trivial</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <project_license>GPL-3.0+</project_license>
+    <name>Trivial</name>
+    <summary>Lorem ipsum dolor sit amet.</summary>
+    <description>
+        <p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
+        <ul>
+            <li>Feature #1</li>
+            <li>Feature #2</li>
+            <li>Feature #3</li>
+        </ul>
+    </description>
+    <provides>
+        <binary>com.github.darkoverlordofdata.trivial</binary>
+    </provides>
+    <screenshots>
+        <screenshot type="default">
+            <image>LINK_TO_SCREENSHOT</image>
+        </screenshot>
+    </screenshots>
+    <developer_name>John Doe</developer_name>
+    <url type="homepage">doe.com</url>
+    <url type="bugtracker">LINK_TO_BUGTRACKER</url>
+    <custom>
+        <value key="x-appcenter-color-primary">#e9f4fc</value>
+        <value key="x-appcenter-color-primary-text">#044b6c</value>
+    </custom>
+</component>

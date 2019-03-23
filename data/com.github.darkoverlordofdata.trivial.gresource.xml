@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/github/darkoverlordofdata/trivial">
+    <file alias="trivial.css" compressed="true">trivial.css</file>
+    <file alias="window.ui">window.ui</file>
+    <file alias="prefs.ui">prefs.ui</file>
+    <file alias="gears-menu.ui">gears-menu.ui</file>
+    <file alias="app-menu.ui">app-menu.ui</file>
+  </gresource>
+</gresources>
